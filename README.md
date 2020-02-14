@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24cc59a7-2de0-4f46-b3b5-3df6a0af6cdb/deploy-status)](https://app.netlify.com/sites/suenoparaiso/deploys)
+
 Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
 
 # Features
