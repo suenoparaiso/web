@@ -1,7 +1,6 @@
 <template>
   <footer class="site-footer">
-    {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - All
-    Rights Reserved
+    {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - con ♡ 42ndStudio
     <br />
   </footer>
 </template>
