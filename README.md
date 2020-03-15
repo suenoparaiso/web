@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Netlify Status](https://api.netlify.com/api/v1/badges/24cc59a7-2de0-4f46-b3b5-3df6a0af6cdb/deploy-status)](https://app.netlify.com/sites/suenoparaiso/deploys)
 
 Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
@@ -37,3 +38,16 @@ Posts and categories can be edited in Netlify CMS at \[your-site-url]/admin. At 
 # Local Development
 
 Since all content is store in the git repo with Netlify CMS, local development is a breeze. Simply install node, pull down the repo, install the dependencies with `npm install`, and run `npm run dev`.
+=======
+# STATIC
+
+**This directory is not required, you can delete it if you don't want to use it.**
+
+This directory contains your static files.
+Each file inside this directory is mapped to `/`.
+Thus you'd want to delete this README.md before deploying to production.
+
+Example: `/static/robots.txt` is mapped as `/robots.txt`.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+>>>>>>> 07eeff44421f55b9492c17860abfd8f4a82ca87c
